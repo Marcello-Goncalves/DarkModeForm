@@ -43,7 +43,7 @@ to [This Thread](https://stackoverflow.com/questions/51334674/how-to-detect-wind
 
 ## Credits
 
-Besides The Due Accreditation to [Jonas Kohl](https://github.com/jonaskohl), [Jonas](https://stackoverflow.com/users/5968320/jonas) and [Rena821](https://github.com/rena821)'s Work, I also Used A [Modified Version](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/Resources/bulb2.png) of [This Icon](https://www.flaticon.com/free-icons/light-bulb) [Designed by Freepik Company, S.L from Flaticon](https://media.flaticon.com/license/license.pdf) as the **Main Icon** of the Application.
+Besides The Due Accreditation to [Jonas Kohl](https://github.com/jonaskohl), [Jonas](https://stackoverflow.com/users/5968320/jonas) and [Rena821](https://github.com/rena821)'s Work, I also Used A [Modified Version](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/Resources/bulb2.png) of [This Icon](https://www.flaticon.com/free-icon/idea_436303?term=light%20bulb&page=1&position=16&page=1&position=16&related_id=436303&origin=tag) [Designed by Freepik Company, S.L from Flaticon](https://media.flaticon.com/license/license.pdf) as the **Main Icon** of the Application.
 
 ![Bulb](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/Resources/bulb2.png "Bulb")
 
