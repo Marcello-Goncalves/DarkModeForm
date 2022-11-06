@@ -12,7 +12,7 @@ namespace DarkModeForm
         // EVENTS
         private void radioButtonLight_CheckedChanged  (object sender, EventArgs e) => LightModeTheme();
         private void radioButtonDark_CheckedChanged   (object sender, EventArgs e) => DarkModeTheme();
-        public  void radioButtonSystem_CheckedChanged (object sender, EventArgs e)
+        private void radioButtonSystem_CheckedChanged (object sender, EventArgs e)
         {
             switch (SystemTheme.Status())
             {
