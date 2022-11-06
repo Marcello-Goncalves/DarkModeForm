@@ -5,10 +5,10 @@ This is a Simple Exemple of how a Dark Mode Can be Implemented to a Desktop Prog
 <br>
 
 The Program Consists of a Simple **Form** with 3 *RadioButton* Controls:
-  - ***Light***   - Applies *Windows'* **Light Theme's** *BackColor* And *ForeColor* (#FFFFFF & #000000 Respectively).
-  - ***Dark***    - Applies *Windows'* **Dark Theme's** *BackColor* And *ForeColor* (#202020 & #FFFFFF Respectively).
+  - ***Light*** &emsp;- Applies *Windows'* **Light Theme's** *BackColor* And *ForeColor* (#FFFFFF & #000000 Respectively).
+  - ***Dark***  &emsp;- Applies *Windows'* **Dark Theme's** *BackColor* And *ForeColor*  (#202020 & #FFFFFF Respectively).
   But Also Calls The [DarkTitleBar Class](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/DarkTitleBar.cs) (More on it Below).
-  - ***System***  - Calls The Status() Method From the [SystemTheme class](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/DarkTitleBar.cs) in order to Identify the OS's Use of a Light or Dark Theme.
+  - ***System***&ensp;- Calls The *Status( )* Method From the [SystemTheme Class](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/DarkTitleBar.cs) in order to Identify the OS's Use of a Light or Dark Theme.
 
 <br>
 
