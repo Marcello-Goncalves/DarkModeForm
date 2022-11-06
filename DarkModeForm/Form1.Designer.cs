@@ -1,4 +1,7 @@
-﻿namespace DarkModeForm
+﻿using System.Runtime.InteropServices;
+using System;
+
+namespace DarkModeForm
 {
     partial class Form1
     {
@@ -84,7 +87,6 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
         #endregion
 
