@@ -20,7 +20,7 @@ The Program Consists of a Simple **Form** with 3 *RadioButton* Controls:
 
 ## The *DarkTitleBar* Class
 
-The [DarkTitleBar Class](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/DarkTitleBar.cs) Applies a Black Color (***F000000***) To the TitleBar (*e.g.* the Dark Mode of Apps like [PowerShell](https://github.com/PowerShell/PowerShell) or [PowerToys](https://github.com/microsoft/PowerToys)).
+The [DarkTitleBar Class](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/DarkTitleBar.cs) Applies a Black Color (***#000000***) To the TitleBar (*e.g.* the Dark Mode of Apps like [PowerShell](https://github.com/PowerShell/PowerShell) or [PowerToys](https://github.com/microsoft/PowerToys)).
 
 The Credit of This Class' Code Development Goes to [Jonas Kohl](https://github.com/jonaskohl) as Displayed on his [***Answer***](https://stackoverflow.com/a/62811758) to [This Thread](https://stackoverflow.com/questions/57124243/winforms-dark-title-bar-on-windows-10) on [StackOverflow](https://stackoverflow.com/)
 and can be Further Observed on His [DarkModeEnabler](https://github.com/jonaskohl/DarkModeEnabler/blob/main/MainForm.cs) **Repository**.
