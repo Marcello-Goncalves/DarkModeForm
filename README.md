@@ -13,7 +13,6 @@ The Program Consists of a Simple **Form** with 3 *RadioButton* Controls:
 <br>
 
   ![Light](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/dark_mode_form_light.jpg "Light")
-
   ![Dark](https://github.com/Marcello-Goncalves/DarkModeForm/blob/master/DarkModeForm/dark_mode_form_dark.jpg "Dark")
 
 
